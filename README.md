@@ -2,7 +2,7 @@
 
 
 
-**`Developer at the crossroads of technology and art/design.`**
+**`Developer | at the crossroads of technology and art/design.`**
 
 * 🌍  I'm based in Miami
 * ✉️  You can contact me at [christiang.dev@gmail.com](mailto:christiang.dev@gmail.com)
