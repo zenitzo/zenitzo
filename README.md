@@ -30,5 +30,5 @@
 
 <p align="left"> <a href="https://www.github.com/zenitzo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="24" height="24" /></a> <a href="http://www.instagram.com/zenitzo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="24" height="24" /></a> <a href="https://www.linkedin.com/in/chrisgonzalez-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="24" /></a> <a href="https://www.twitter.com/npmzen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="24" height="24" /></a> <a href="https://www.twitch.tv/zenitzo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="24" height="24" /></a></p>
 
-![ezgif-1-774fcb34d6](https://github.com/zenitzo/zenitzo/assets/107893812/75d8532b-eae5-4f2c-99ee-496530999e3d)
+![newnew](https://github.com/zenitzo/zenitzo/assets/107893812/2c76c15e-294e-44dc-8428-63da1a8f49d1)
 
