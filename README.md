@@ -2,10 +2,10 @@
 
 
 
-**`Developer | at the crossroads of technology and art/design.`**
+**`Developer | at the crossroads of technology and art/design.`** 
 
 * 🌍 𝙸'𝚖 𝚋𝚊𝚜𝚎𝚍 𝚒𝚗 𝙼𝚒𝚊𝚖𝚒
-* ✉️  𝚈𝚘𝚞 𝚌𝚊𝚗 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 𝚊𝚝 [𝚌𝚑𝚛𝚒𝚜𝚝𝚒𝚊𝚗𝚐.𝚍𝚎𝚟@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖](𝚖𝚊𝚒𝚕𝚝𝚘:𝚌𝚑𝚛𝚒𝚜𝚝𝚒𝚊𝚗𝚐.𝚍𝚎𝚟@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖)
+* ✉️  𝚈𝚘𝚞 𝚌𝚊𝚗 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 𝚊𝚝 [𝚌𝚑𝚛𝚒𝚜𝚝𝚒𝚊𝚗𝚐.𝚍𝚎𝚟@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖](mailto:christiang.dev@gmail.com) 
 * 🧠 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙽𝚎𝚡𝚝.𝚓𝚜, 𝚃𝚢𝚙𝚎𝚜𝚌𝚛𝚒𝚙𝚝, 𝚃𝚊𝚒𝚕𝚠𝚒𝚗𝚍.
 * 💻 𝚏𝚛𝚎𝚎𝚕𝚊𝚗𝚌𝚎 𝚏𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛.
 
@@ -27,7 +27,7 @@
 
 
 
-### Socials
+### Socials (mailto:christiang.dev@gmail.com)
 
 <p align="left"> <a href="https://www.github.com/zenitzo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="24" height="24" /></a> <a href="http://www.instagram.com/zenitzo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="24" height="24" /></a> <a href="https://www.linkedin.com/in/chrisgonzalez-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="24" /></a> <a href="https://www.twitter.com/npmzen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="24" height="24" /></a> <a href="https://www.twitch.tv/zenitzo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="24" height="24" /></a></p>
 
