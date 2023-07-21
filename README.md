@@ -1,10 +1,8 @@
-Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chris but everyone calls me zen.
-========================================================================================================================================================
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hubot+Sans&weight=700&size=28&duration=4000&pause=1000&color=FFFFFF&repeat=false&width=350&height=38&lines=Hi%2C+zen+here.)](https://git.io/typing-svg)
 
-Full-stack software engineer
-----------------------------
 
-at the crossroads of technology and art/design.
+
+**`Developer at the crossroads of technology and art/design.`**
 
 * 🌍  I'm based in Miami
 * ✉️  You can contact me at [christiang.dev@gmail.com](mailto:christiang.dev@gmail.com)
