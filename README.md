@@ -27,7 +27,7 @@
 
 
 
-### Socials (mailto:christiang.dev@gmail.com)
+### Socials 
 
 <p align="left"> <a href="https://www.github.com/zenitzo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="24" height="24" /></a> <a href="http://www.instagram.com/zenitzo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="24" height="24" /></a> <a href="https://www.linkedin.com/in/chrisgonzalez-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="24" /></a> <a href="https://www.twitter.com/npmzen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="24" height="24" /></a> <a href="https://www.twitch.tv/zenitzo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="24" height="24" /></a></p>
 
