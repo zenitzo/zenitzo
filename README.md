@@ -6,7 +6,7 @@
 
 * 🌍  I'm based in Miami
 * ✉️  You can contact me at [christiang.dev@gmail.com](mailto:christiang.dev@gmail.com)
-* 🧠  I'm learning Next.js, Typescript, Tailwind.
+* 🧠  I'm currently learning Next.js, Typescript, Tailwind.
 
 ### Skills
 
