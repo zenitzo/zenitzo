@@ -7,15 +7,6 @@
 * 🌍 𝚋𝚊𝚜𝚎𝚍 𝚒𝚗 𝙼𝚒𝚊𝚖𝚒
 * ✉️  𝚢𝚘𝚞 𝚌𝚊𝚗 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 𝚊𝚝 [𝚌𝚑𝚛𝚒𝚜𝚝𝚒𝚊𝚗𝚐.𝚍𝚎𝚟@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖](mailto:christiang.dev@gmail.com) 
 
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="28" height="28" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="28" height="28" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="28" height="28" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="28" height="28" alt="CSS3" /></a>
-
 
 
 ### Socials 
