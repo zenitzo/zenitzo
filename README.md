@@ -3,7 +3,6 @@
 
 
 * 🌍 𝚋𝚊𝚜𝚎𝚍 𝚒𝚗 𝙼𝚒𝚊𝚖𝚒
-* ✉️  𝚢𝚘𝚞 𝚌𝚊𝚗 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 𝚊𝚝 [info@zenvi.ai](mailto:info@zenvi.ai) 
 
 
 
